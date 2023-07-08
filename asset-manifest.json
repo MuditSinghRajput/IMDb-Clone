@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/IMDb-Clone/static/css/main.a42df369.css",
+    "main.js": "/IMDb-Clone/static/js/main.7eb2e441.js",
+    "static/js/787.741971bc.chunk.js": "/IMDb-Clone/static/js/787.741971bc.chunk.js",
+    "index.html": "/IMDb-Clone/index.html",
+    "main.a42df369.css.map": "/IMDb-Clone/static/css/main.a42df369.css.map",
+    "main.7eb2e441.js.map": "/IMDb-Clone/static/js/main.7eb2e441.js.map",
+    "787.741971bc.chunk.js.map": "/IMDb-Clone/static/js/787.741971bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a42df369.css",
+    "static/js/main.7eb2e441.js"
+  ]
+}
